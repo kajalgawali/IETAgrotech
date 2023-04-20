@@ -1,0 +1,59 @@
+Buisness requirement gathering specification
+
+
+Name:  IET-Agro
+
+Team : Kajal Gawali
+
+
+Users : Farmer
+        Vendor
+        sales
+        Agri College
+        House Garden customers
+        Delivery
+        Shopkeeper
+        Research lab
+        IET Team
+                  
+
+          Regional language
+Expectations : 1)Farmer 
+		Any information should be avaliable in regional language. Information regarding all type of farming like dairy,
+poutry, goat, fish etc. farming along with traditional soil farming. In soil framing, Agro tech should test soil and recommends
+various solution according to the crop that needs to be harvested. During this process, starting phase like seeds purchases,
+sowing machinaries, pestisides, fertilizers etc. market place should made avaliable from various venders.
+Weather forecasting should be shown along with suggestions regarding seasonal crop to increase yeild. 
+Live solutions for various diseases as well as help with harvesting cycle.
+                   
+
+
+               
+               2)Vendor/Manufacturer
+vendors should get gathered information regarding area wise farmers population, their harvesting details  along with their
+market needs. Vendor should get show their inventory which should be inline with the farmers need. Inventory information should
+easy modified updated by vendor and should be easily purchased by farmers. Any Adverticment should be published and shown to increase
+bussiness with farmers.   information on the daily rates on crops selected by the member subscribers on a localized, district level,
+state level, national and international levels. rates provided will also be commensurate with the rates prevalent 
+on that date based on the area of residence of the member.
+
+rates are announced after meticulous gathering and compilation and comparison of the current estimated production level and 
+localized, national and international demand for the harvest, export possibilities and propensities, residualstock 
+from earlier harvests and governmental controls and regulations pertaining to that particular crop/harvest, thus 
+enabling the member subscribers to be fully equipped and thorough in their knowledgebase to take timely, proper and 
+informed decision.
+
+             Details of farmer's crop/disease of crop/Types of Products with different  concentration
+              
+               3) Salepersons 
+ Salesperson should get infomration from farmers to ease their area investigation. They should be able to give information               
+about products like harbisites,pestisides,fertilizers
+  Salepersons should get all the deep details of the each products so they can delivered it to the farmers/shopkeeprs
+ Area investigation/inventory of products/information of products
+
+              
+               4)  Agri College
+                  crop details / Area wise distribution of crop/Types of Products with different  concentration/information of lab
+
+               5) House Garden customers
+                   
