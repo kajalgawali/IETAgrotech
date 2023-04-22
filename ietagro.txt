@@ -1,6 +1,6 @@
-Document:System Requirement Specification Document
+Document: System Requirement Specification Document
 
-Title:IET Agrotech
+Title: IET Agrotech
 
 Team:	Farmer
         Vendor
@@ -19,54 +19,54 @@ Scope:
 
 Functional Requirement:
 
-Expectations : 1)Farmer 
-		Any information should be avaliable in regional language. Information regarding all type of farming guidance from crop harvesting to crop selling  with detail weather report and future requirement .Agro tech should  provide complete Crop information on a single platform. It should provide Information Specifying land quality, climatic condition, fertilizer, and amount of water required for the crop has been illustrated. Agro tech should modulate soil test and recommends various solution provided by agri institutions like agri colleges and research labs. During this process, starting phase like seeds purchases, sowing machinaries, pestisides, fertilizers etc. market place should made avaliable from various venders. Weather forecasting should be shown along with suggestions regarding seasonal crop to increase yeild. Live solutions for various diseases as well as help with harvesting cycle.
+Expectations: 1)Farmer 
+		Any information should be available in the regional language. Information regarding all types of farming guidance from crop harvesting to crop selling with detailed weather reports and future requirements. Agro tech should provide complete Crop information on a single platform. It should provide Information Specifying land quality, climatic conditions, fertilizer, and the amount of water required for the crop has been illustrated. Agro tech should modulate soil test and recommends various solution provided by agri institutions like agri colleges and research labs. During this process, starting phases like seed purchases, sowing machinery, pesticides, fertilizers, etc. market place should make available from various vendors. Weather forecasting should be shown along with suggestions regarding seasonal crops to increase yield. Live solutions for various diseases as well as help with the harvesting cycle.
 .
                    
 
 
                               2)Vendor/Manufacturer
-		vendors should get gathered information regarding area wise farmers population, their harvesting details  along with their market needs. Vendor should get show their inventory which should be inline with the farmers need. Inventory information should  easy modified updated by vendor and should be easily purchased by farmers. Any Adverticment should be published and shown to increase bussiness with farmers.   information on the daily rates on crops selected by the member subscribers on a localized, district level, state level, national and international levels. rates provided will also be commensurate with the rates prevalent on that date based on the area of residence of the member.  
-Product rates are announced after meticulous gathering and compilation and comparison of the current estimated production level and localized, national and international demand for the harvest, export possibilities and propensities, residualstock  from earlier harvests and governmental controls and regulations pertaining to that particular crop/harvest, thus enabling the member subscribers to be fully equipped and thorough in their knowledgebase to take timely, proper and informed decision. It should consists of unique functionality which provides all the updated crop rate on one platform for the farmers.
+		vendors should get gathered information regarding area-wise farmer population, their harvesting details along with their market needs. A vendor should get show their inventory which should be in line with the farmer's needs. Inventory information should easily be modified and updated by the vendor and should be easily purchased by farmers. Any advertisement should be published and shown to increase business with farmers.   information on the daily rates of crops selected by the member subscribers on localized, district level, state level, national and international levels. rates provided will also be commensurate with the rates prevalent on that date based on the area of residence of the member.  
+Product rates are announced after meticulous gathering and compilation and comparison of the current estimated production level and localized, national, and international demand for the harvest, export possibilities and propensities, residual stock from earlier harvests, and governmental controls and regulations of that particular crop/harvest, thus enabling the member subscribers to be fully equipped and thorough in their knowledgebase to take a timely, proper and informed decision. It should consist of unique functionality which provides all the updated crop rates on one platform for the farmers.
 
              Details of farmer's crop/disease of crop/Types of Products with different  concentration              
-               3) Salepersons 
- Salesperson should get infomration from farmers to ease their area investigation. They should be able to give information  about products like harbisites,pestisides,fertilizers Salepersons should get all the details of the each products so they can delivered it to the farmers/shopkeeprs. 
- Area investigation/inventory of products/information of products
+               3) Salespersons 
+ The salesperson should get information from farmers to ease their area investigation. They should be able to give information about products like herbicides, pesticides, and fertilizers Salespersons should get all the details of each product so they can be delivered to the farmers/shopkeepers. 
+ Area investigation/inventory of products/information on products
          
                4)  Agri College
-Agri college should able to attend all matters concerning the development of new technology in agriculture, horticulture, natural resources management, agriculture engineering, agricultural extension, animal science, economic statistics and marketing and fisheries, including such functions as plant and animal introduction and exploration and soil and land use survey and planning.
+Agri college should be able to attend all matters concerning the development of new technology in agriculture, horticulture, natural resources management, agriculture engineering, agricultural extension, animal science, economic statistics, and marketing and fisheries, including such functions as plant and animal introduction and exploration and soil and land use survey and planning.
                 
-  crop details / Area wise distribution of crop/Types of Products with different  concentration/information of lab
+  crop details / Area wise distribution of crops/Types of Products with different concentrations/information of lab
 NonFunctional Requirement:
 
 	Security	
-		Each stakeholder will be to access system  through authentication process. System will provide access to  the content , operations using Role based security (Authorization) (Permissions based on Role) Using SSL in all transactions  which will be performed stakeholder. It would protect confidential information shared by system to stake holder of Shared by stakeholder to system. System will automatically log of  all stakeholder after some time due to inactiveness. System will block operations for inactive  stakeholder and would redirect for authentication. 	System  will internally maintain secure communiction channel between Servers ( Web Servers, App Servers, databse Server) Sensitive data will be always encrypted across communcation. User proper firewall to protect servers from out side fishing, vulnerable attacks.
+		Each stakeholder will be to access the system through the authentication process. The system will provide access to the content, and operations using Role-based security (Authorization) (Permissions based on Role) Using SSL in all transactions which will be performed by stakeholders. It would protect confidential information shared by the system with the stakeholder of Shared by a stakeholder to the system. The system will automatically log all stakeholders after some time due to inactivity. The system will block operations for inactive stakeholders and would redirect for authentication. 	The system will internally maintain a secure communication channel between Servers ( Web Servers, App Servers, database Servers) Sensitive data will be always encrypted across the communication. User proper firewall to protect servers from outside fishing, and vulnerable attacks.
 
 
 	Reliability
-		The system will backup business data on regular basis and recover in short time duration to keep system operational Continous updates are matained , continous Adminstration is done to keep system operational. During peak hours system will maintain same user experience by managing load  balancing 
+		The system will back up business data on regular basis and recover in a short time duration to keep the system operational Continuous updates are maintained, and continuous administration is done to keep the system operational. During peak hours system will maintain the same user experience by managing load  balancing 
 	Availability
-		The system will be available for all the time. It can be accessed 24*7 anytime. 
+		The system will be available all the time. It can be accessed 24*7 anytime. 
 	
 	Maintainability:
-		A Commercial database software will be used to maintain System data Persistence. A readymade Web Server will be installed to host online shopping portal (Web Site) to management server capabilities. IT operations team will easily monitor and configure System using Adminstrative tools provided by Servers. Separate enviornment will be maintained for system for isolation in  production, testing, and development.
+		Commercial database software will be used to maintain System Data Persistence. A readymade Web Server will be installed to host an online shopping portal (Web Site) to manage server capabilities. IT operations team will easily monitor and configure the System using Administrative tools provided by Servers. A separate environment will be maintained for a system for isolation in production, testing, and development.
 
-	Portablility:
+	Portability:
 		 
-		 System will provide portable User  friendly Interface in mobile application with regional language support.  System can be deployed to single server, multi server, to any OS, Cloud (Azure or AWS or GCP)
+		 The system will provide a portable User-friendly Interface in a mobile application with regional language support.  The system can be deployed to a single server, multi-server, to any OS, Cloud (Azure or AWS or GCP)
 
 	Accessibility:
-		Only registered customer will be able to place an order after authentication.	Sales person can reject or approve  orders, farmers requests  based on role  provided.		Vendors  and Manufactorer's will be able to see their product sale graph
+		Only registered customers will be able to place an order after authentication.	The salesperson can reject or approve orders, and the farmer's request based on the role provided.		Vendors  and Manufacturers will be able to see their product sale graph
 
 	Durability:
-		  System will retain customer  shopping cart for 15 minutes  even though customer loose internet connection and join again.  System will implement backup and recovery for retaining stake holders data, bussiness operation data and business data over time.
+		  The system will retain the customer's shopping cart for 15 minutes even though the customer loses the internet connection and join again.  The system will implement backup and recovery for retaining stakeholders' data, business operation data, and business data over time.
 
 	Efficiency:
-		During Harvesting season, maximum number of Farmers  will place order, view products  with same response time. System will be able to manage all transactions with isolation.
+		During Harvesting season, a maximum number of Farmers will place an order, and view products with the same response time. The system will be able to manage all transactions in isolation.
 
 	Modularity:
-		 System will designed and developed using reusable, independent or dependent business senarios in the form of modules. These modules will be loosely coupled and highly cohesive. System will contain CRM , Inventory , shopping cart,vendors, order processing, payment processing, Delivery module, membership and Roles managment  modules.
+		 The system will be designed and developed using reusable, independent, or dependent business scenarios in the form of modules. These modules will be loosely coupled and highly cohesive. The system will contain CRM, Inventory, shopping cart, vendors, order processing, payment processing, Delivery module, membership, and Roles management modules.
 	
 	Scalability:
-		System will be able  to  provide  consistent user exeprience to stake holder as well as vistors irrespective of load. When the users will increase that time the system will adjust according to load, and when customers are les then it will adjust accordingly.
+		The system will be able to provide consistent user experience to stakeholders as well as visitors irrespective of load. When the number of users will increase that time the system will adjust according to load, and when customers are fewer then it will adjust accordingly.
