@@ -6,7 +6,6 @@ Team:	Farmer
         Vendor
         salesperson
         Agri College
-        House Garden customers
         Delivery
         Shopkeeper
         Research lab
