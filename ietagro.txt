@@ -49,7 +49,7 @@ Functional Requirement:
 		farmers.   information on the daily rates of crops selected by the member subscribers on localized, district
 		level, state level, national and international levels. rates provided will also be commensurate with 
 		the rates prevalent on that date based on the area of residence of the member.  
-        Product rates are announced after meticulous gathering and compilation and comparison of the current
+        Product rates are announced after meticulous gathering , compilation and comparison of the current
 		estimated production level and localized, national, and international demand for the harvest, export 
 		possibilities and propensities, residual stock from earlier harvests, and governmental controls and 
 		regulations of that particular crop/harvest, thus enabling the member subscribers to be fully equipped
