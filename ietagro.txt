@@ -13,60 +13,120 @@ Team:	Farmer
         IET Team
 
 Objective (Purpose):
-	The online Krushi Seva is the solution for all types of crop harvesting, marketplace, weather forecasting, and all guidance for farming, vendors, Consumers, shippers as well as internal users (Staff)  through a single Gateway using the internet. It will enable vendors to set up online shops, and customers to browse through the virtual shop and purchase products online without visiting the shop physically. Agri colleges and research labs will be able to rectify farmers' queries and will be able to provide services virtually. 
+	The online Krushi Seva is the solution for all types of crop harvesting, marketplace, weather forecasting,
+	and all guidance for farming, vendors, Consumers, shippers as well as internal users (Staff)  through a single
+	Gateway using the internet. It will enable vendors to set up online shops, and customers to browse through the 
+	virtual shop and purchase products online without visiting the shop physically. Agri colleges and research labs 
+	will be able to rectify farmers' queries and will be able to provide services virtually. 
+
 Scope:
-	This System allows vendors to maintain their products for adding or removing from the catalog based on their availability. Farmers will be able to review orders history and Agri colleges and research labs may able to provide solutions within 24 hours. IET TEAM will be able to manage customers, vendors, Agri colleges, and research labs through the admin dashboard. A salesperson person will be able to get provide samples and guidance for the harvesting process. The System will be able to provide the live solution for crop harvest and disease precautions  Vendors will able to see Operational statistics trends through a Customized dashboard for stakeholders.
+	This System allows vendors to maintain their products for adding or removing from the catalog based on their 
+	availability. Farmers will be able to review orders history and Agri colleges and research labs may able to 
+	provide solutions within 24 hours. IET TEAM will be able to manage customers, vendors, Agri colleges, and research
+	labs through the admin dashboard. A salesperson person will be able to get provide samples and guidance for 
+	the harvesting process. 
+	The System will be able to provide the live solution for crop harvest and disease precautions 
+	Vendors will able to see Operational statistics trends through a Customized dashboard for stakeholders.
 
 Functional Requirement:
 
-Expectations: 1)Farmer 
-		Any information should be available in the regional language. Information regarding all types of farming guidance from crop harvesting to crop selling with detailed weather reports and future requirements. Agro tech should provide complete Crop information on a single platform. It should provide Information Specifying land quality, climatic conditions, fertilizer, and the amount of water required for the crop has been illustrated. Agro tech should modulate soil test and recommends various solution provided by agri institutions like agri colleges and research labs. During this process, starting phases like seed purchases, sowing machinery, pesticides, fertilizers, etc. market place should make available from various vendors. Weather forecasting should be shown along with suggestions regarding seasonal crops to increase yield. Live solutions for various diseases as well as help with the harvesting cycle.
-.
-                   
+   Expectations: 
+        1)Farmer 
+		Any information should be available in the regional language. Information regarding all types of farming
+		guidance from crop harvesting to crop selling with detailed weather reports and future requirements.
+		Agro tech should provide complete Crop information on a single platform. It should provide Information
+		Specifying land quality, climatic conditions, fertilizer, and the amount of water required for the crop
+		has been illustrated. Agro tech should modulate soil test and recommends various solution provided
+		by agri institutions like agri colleges and research labs. During this process, starting phases like
+		seed purchases, sowing machinery, pesticides, fertilizers, etc. market place should make available
+		from various vendors. Weather forecasting should be shown along with suggestions regarding seasonal 
+		crops to increase yield. Live solutions for various diseases as well as help with the harvesting cycle.
+		
+		2)Vendor/Manufacturer
+		vendors should get gathered information regarding area-wise farmer population, their harvesting details
+		along with their market needs. A vendor should get show their inventory which should be in line with the
+		farmer's needs. Inventory information should easily be modified and updated by the vendor and should be
+		easily purchased by farmers. Any advertisement should be published and shown to increase business with
+		farmers.   information on the daily rates of crops selected by the member subscribers on localized, district
+		level, state level, national and international levels. rates provided will also be commensurate with 
+		the rates prevalent on that date based on the area of residence of the member.  
+        Product rates are announced after meticulous gathering and compilation and comparison of the current
+		estimated production level and localized, national, and international demand for the harvest, export 
+		possibilities and propensities, residual stock from earlier harvests, and governmental controls and 
+		regulations of that particular crop/harvest, thus enabling the member subscribers to be fully equipped
+		and thorough in their knowledgebase to take a timely, proper and informed decision. It should consist
+		of unique functionality which provides all the updated crop rates on one platform for the farmers.
+        Details of farmer's crop/disease of crop/Types of Products with different  concentration              
+        
+		3) Salespersons 
+        The salesperson should get information from farmers to ease their area investigation. They should be 
+		able to give information about products like herbicides, pesticides, and fertilizers Salespersons should 
+		get all the details of each product so they can be delivered to the farmers/shopkeepers. 
+        Area investigation/inventory of products/information on products
+        
+		4)Agri College
+         Agri college should be able to attend all matters concerning the development of new technology in
+		 agriculture, horticulture, natural resources management, agriculture engineering, agricultural 
+		 extension, animal science, economic statistics, and marketing and fisheries, including such functions 
+		 as plant and animal introduction and exploration and soil and land use survey and planning.
+         crop details / Area wise distribution of crops/Types of Products with different concentrations/information
+		 of lab
+        
+Non Functional Requirement: 
 
-
-                              2)Vendor/Manufacturer
-		vendors should get gathered information regarding area-wise farmer population, their harvesting details along with their market needs. A vendor should get show their inventory which should be in line with the farmer's needs. Inventory information should easily be modified and updated by the vendor and should be easily purchased by farmers. Any advertisement should be published and shown to increase business with farmers.   information on the daily rates of crops selected by the member subscribers on localized, district level, state level, national and international levels. rates provided will also be commensurate with the rates prevalent on that date based on the area of residence of the member.  
-Product rates are announced after meticulous gathering and compilation and comparison of the current estimated production level and localized, national, and international demand for the harvest, export possibilities and propensities, residual stock from earlier harvests, and governmental controls and regulations of that particular crop/harvest, thus enabling the member subscribers to be fully equipped and thorough in their knowledgebase to take a timely, proper and informed decision. It should consist of unique functionality which provides all the updated crop rates on one platform for the farmers.
-
-             Details of farmer's crop/disease of crop/Types of Products with different  concentration              
-               3) Salespersons 
- The salesperson should get information from farmers to ease their area investigation. They should be able to give information about products like herbicides, pesticides, and fertilizers Salespersons should get all the details of each product so they can be delivered to the farmers/shopkeepers. 
- Area investigation/inventory of products/information on products
-         
-               4)  Agri College
-Agri college should be able to attend all matters concerning the development of new technology in agriculture, horticulture, natural resources management, agriculture engineering, agricultural extension, animal science, economic statistics, and marketing and fisheries, including such functions as plant and animal introduction and exploration and soil and land use survey and planning.
-                
-  crop details / Area wise distribution of crops/Types of Products with different concentrations/information of lab
-NonFunctional Requirement:
-
-	Security	
-		Each stakeholder will be to access the system through the authentication process. The system will provide access to the content, and operations using Role-based security (Authorization) (Permissions based on Role) Using SSL in all transactions which will be performed by stakeholders. It would protect confidential information shared by the system with the stakeholder of Shared by a stakeholder to the system. The system will automatically log all stakeholders after some time due to inactivity. The system will block operations for inactive stakeholders and would redirect for authentication. 	The system will internally maintain a secure communication channel between Servers ( Web Servers, App Servers, database Servers) Sensitive data will be always encrypted across the communication. User proper firewall to protect servers from outside fishing, and vulnerable attacks.
-
-
-	Reliability
-		The system will back up business data on regular basis and recover in a short time duration to keep the system operational Continuous updates are maintained, and continuous administration is done to keep the system operational. During peak hours system will maintain the same user experience by managing load  balancing 
-	Availability
+	     1)Security	
+		Each stakeholder will be to access the system through the authentication process. The system will
+		provide access to the content, and operations using Role-based security (Authorization)
+		(Permissions based on Role) Using SSL in all transactions which will be performed by stakeholders. 
+		It would protect confidential information shared by the system with the stakeholder of Shared by a 
+		stakeholder to the system. The system will automatically log all stakeholders after some time due
+		to inactivity. The system will block operations for inactive stakeholders and would redirect for
+		authentication. 	The system will internally maintain a secure communication channel between
+		Servers ( Web Servers, App Servers, database Servers) Sensitive data will be always encrypted across
+		the communication. User proper firewall to protect servers from outside fishing, and vulnerable attacks.
+        
+		2)Reliability
+		The system will back up business data on regular basis and recover in a short time duration to keep the
+		system operational Continuous updates are maintained, and continuous administration is done to keep the
+		system operational. During peak hours system will maintain the same user experience by managing load 
+		balancing 
+	    
+		3)Availability 
 		The system will be available all the time. It can be accessed 24*7 anytime. 
 	
-	Maintainability:
-		Commercial database software will be used to maintain System Data Persistence. A readymade Web Server will be installed to host an online shopping portal (Web Site) to manage server capabilities. IT operations team will easily monitor and configure the System using Administrative tools provided by Servers. A separate environment will be maintained for a system for isolation in production, testing, and development.
+	    4)Maintainability:
+		Commercial database software will be used to maintain System Data Persistence. A readymade Web Server
+		will be installed to host an online shopping portal (Web Site) to manage server capabilities.
+		IT operations team will easily monitor and configure the System using Administrative tools provided
+		by Servers. A separate environment will be maintained for a system for isolation in production, testing, 
+		and development.
 
-	Portability:
-		 
-		 The system will provide a portable User-friendly Interface in a mobile application with regional language support.  The system can be deployed to a single server, multi-server, to any OS, Cloud (Azure or AWS or GCP)
+	    5)Portability:
+		The system will provide a portable User-friendly Interface in a mobile application with regional 
+		language support.  The system can be deployed to a single server, multi-server, to any OS, 
+		Cloud (Azure or AWS or GCP)
 
-	Accessibility:
-		Only registered customers will be able to place an order after authentication.	The salesperson can reject or approve orders, and the farmer's request based on the role provided.		Vendors  and Manufacturers will be able to see their product sale graph
+	    6)Accessibility:
+		Only registered customers will be able to place an order after authentication.	The salesperson can
+		reject or approve orders, and the farmer's request based on the role provided.	
+		Vendors  and Manufacturers will be able to see their product sale graph
 
-	Durability:
-		  The system will retain the customer's shopping cart for 15 minutes even though the customer loses the internet connection and join again.  The system will implement backup and recovery for retaining stakeholders' data, business operation data, and business data over time.
+	    7)Durability:
+		  The system will retain the customer's shopping cart for 15 minutes even though the customer 
+		  loses the internet connection and join again.  The system will implement backup and recovery 
+		  for retaining stakeholders' data, business operation data, and business data over time.
 
-	Efficiency:
-		During Harvesting season, a maximum number of Farmers will place an order, and view products with the same response time. The system will be able to manage all transactions in isolation.
+	    8)Efficiency:
+		During Harvesting season, a maximum number of Farmers will place an order, and view products with 
+		the same response time. The system will be able to manage all transactions in isolation.
 
-	Modularity:
-		 The system will be designed and developed using reusable, independent, or dependent business scenarios in the form of modules. These modules will be loosely coupled and highly cohesive. The system will contain CRM, Inventory, shopping cart, vendors, order processing, payment processing, Delivery module, membership, and Roles management modules.
+	    8)Modularity:
+		 The system will be designed and developed using reusable, independent, or dependent business scenarios
+		 in the form of modules. These modules will be loosely coupled and highly cohesive. The system will
+		 contain CRM, Inventory, shopping cart, vendors, order processing, payment processing, Delivery module,
+		 membership, and Roles management modules.
 	
-	Scalability:
-		The system will be able to provide consistent user experience to stakeholders as well as visitors irrespective of load. When the number of users will increase that time the system will adjust according to load, and when customers are fewer then it will adjust accordingly.
+	    9)Scalability:
+		The system will be able to provide consistent user experience to stakeholders as well as visitors
+		irrespective of load. When the number of users will increase that time the system will adjust 
+		according to load, and when customers are fewer then it will adjust accordingly.
