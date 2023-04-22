@@ -1,0 +1,31 @@
+Roles of user : 
+Farmer : 1)Getting information about crops,fertilisers,seeds  etc 
+	 2)Uploading images of soil, plants etc
+         3)Precautions 
+	 
+	 
+	   
+Vendor : 1)Information of products which need to be manufactured
+         2)Needs which are completed 
+        
+Salespersons : 1)Inforamtion of area for sale
+               2)Products details
+               3)Interest/offers of/for products in farmers/shopkeepers area wise
+
+Agri College : 1)Publish new creations
+	       2)Gives updates regarding hybrid crops,diseases
+               3)Diseases/viruses spread in area
+ 
+Delivery : 1)Products for delivery
+           2)Information about remaining deliveries and completed
+ 
+Shopkeeper : 1)Stock details 
+	     2)Farmers requirements
+	     3)Orders for stock
+	     4)Details of products
+	     5)Sold history(old records)
+
+Research lab : 1)Updating results of  testing materials given by farmers
+	       2)Publish results of tests
+
+
