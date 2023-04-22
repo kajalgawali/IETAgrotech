@@ -13,7 +13,7 @@ Team:	Farmer
 
 Objective (Purpose):
 	The online Krushi Seva is the solution for all types of crop harvesting, marketplace, weather forecasting,
-	and all guidance for farming, vendors, Consumers, shippers as well as internal users (Staff)  through a single
+	and all guidance for farmers, vendors, Institutions,  as well as internal users (Staff)  through a single
 	Gateway using the internet. It will enable vendors to set up online shops, and customers to browse through the 
 	virtual shop and purchase products online without visiting the shop physically. Agri colleges and research labs 
 	will be able to rectify farmers' queries and will be able to provide services virtually. 
