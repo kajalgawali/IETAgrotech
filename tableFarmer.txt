@@ -1,0 +1,10 @@
+create table farmer(F_id int primary key ,user_id int ,F_area int , F_crop varchar(20),foregin  key(user_id) references user(user_id));
+create table user(user_id primary key,user_name varchar(20),user_type_i int,pwd varchar(10) ,phone_no varchar(12) unique key ,foregin key(user_type_i) references user_type(type_id));
+create table user_type(type_id int primary key,type_name varchar(20));
+create table orders(order_id primary key ,product_id int f ,seller_id int f, cust_id int f,order_D date,);
+create table products(prod_id int primary key,prod_name  varchar(20),mf_id int f,prod_type varchar(20));
+create table vendors(vend_id int primary key,user_id int f,vend_addrs varchar(20));
+create table manuf(mf_id primary key , mf_name varchar(40), mf_addrs varchar(40), mf_emaild varchar(40), mf_phone varchar(40));
+create table agri_problem(pr_id primary key, f_id int F, pr_statement varchar(40));
+create table agri_institutaion(user_id primary, in_name varchar(40),)
+create table agri_solution(sl_id primary key, f_id int F, sl_statement varchar(40));
