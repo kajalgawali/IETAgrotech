@@ -1,36 +1,24 @@
-const express = require("express");
-const app = express();
+var express = require('express');
+var path=require('path');
+var app = express();
 
-//Requst processing
+//server configuration
+app.use(express.static(path.join(__dirname,'public')));
 
-app.get("/", (req, res) => {
-    res.send("<h1>Welcome to IET krushi agro</h1>"+
-                   "<hr/>"+
-                   "<ol>"+
-                    "<li>Solutions of farmer problems </li>"+
-                    "<li> Friend of farmer</li>");
+app.get('/', function (req, res) {
+    res.sendFile(path.join(___dirname + '/index.html'));
+ });
+
+
+app.get('/hello', function (req, res) {
+    var person={firstName:'Ravi',lastName:'Tambade',age:47};
+    res.send(person);
 });
 
-app.get("/about", (req, res) => {
-    res.send("<h1> IET krushi agro Pvt. ltd.</h1>");
+var server = app.listen(7667, function () {
+    var host = server.address().address
+    var port = server.address().port
+    console.log("Example app listening at http://localhost:7667", host, port)
 });
 
-app.get("/Information", (req, res) => {
-    res.send("<p>Seasional Crops</p>"
-            +"<p>Crop fertilizers and pestisisde use cases </p>" );
-});
-
-app.get("/crop_information",(req, res)=>{
-    var products=[
-    {"id":1,"title":"Wheat","description":"cycle crop","unitprice":500,"quantity":4000},
-    {"id":2,"title":"Jwar","description":"Rabbi crop","unitprice":750,"quantity":5000},
-    {"id":3,"title":"red gram","description":"pulses ","unitprice":800,"quantity":10000},
-    {"id":4,"title":"Soyabean","description":"oil pulses","unitprice":900,"quantity":7400},
- 
-    ];
-    res.send(products);
-
-})
-app.listen(3000, () => {
-    console.log("Listen on the port 3000...");
-});
+  
